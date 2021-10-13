@@ -14,3 +14,4 @@ Welcome to Ubuntu 20.04.2 LTS (GNU/Linux 5.4.0-80-generic x86_64)
 You have new mail.
 Last login: Wed Sep  1 17:29:08 2021 from 10.10.16.2
 ```
+Notice the "You have new mail."

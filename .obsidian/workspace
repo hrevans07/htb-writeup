@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Horizontall/1.5 - Foothold.md",
-            "mode": "source"
+            "file": "WINDOWS-PRIVESC.md",
+            "mode": "preview"
           }
         }
       },
@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writer/05 - SQL injection.md",
-            "mode": "preview"
+            "file": "WINDOWS-PRIVESC.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writer/05 - SQL injection.md",
+                "file": "WINDOWS-PRIVESC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "7fc6496c6a4d2962",
   "lastOpenFiles": [
-    "Writer/05 - SQL injection.md",
-    "Horizontall/1.5 - Foothold.md",
-    "Horizontall/1.0 - Enumeration.md",
+    "WINDOWS-PRIVESC.md",
+    "Driver/2.0 - Privesc.md",
     "Untitled.md",
-    "Writer/10 - Privesc.md",
-    "Writer/11 - Samba info.md",
-    "Writer/00 - Enumeration.md",
-    "Pit/00 - Enumeration.md",
-    "Previse - pwnd/2.5 - Privesc.md",
-    "Previse/2.5 - Privesc.md"
+    "Driver/1.5 - Foothold.md",
+    "Driver/Pasted image 20211011173401.png",
+    "Driver/1.0 - Enumeration.md",
+    "Monitors/00 - Enumeration.md",
+    "Dynstr/00 - Enumeration.md",
+    "Writer/15 - Lateral movement.md",
+    "Writer/10 - Privesc.md"
   ]
 }
