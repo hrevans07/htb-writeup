@@ -1,4 +1,5 @@
 {
   "baseFontSize": 26,
-  "translucency": true
+  "translucency": true,
+  "accentColor": ""
 }

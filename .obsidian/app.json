@@ -1,3 +1,6 @@
 {
-  "readableLineLength": false
+  "readableLineLength": false,
+  "legacyEditor": false,
+  "promptDelete": false,
+  "spellcheck": true
 }
