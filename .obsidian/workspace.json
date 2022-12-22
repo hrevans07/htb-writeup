@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "286eb7455bd06237",
+        "id": "fcf6daf49c17f310",
         "type": "tabs",
         "children": [
           {
-            "id": "585d652113d87e9b",
+            "id": "48b91282d6e26668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ambassador - pwnd/10 - Root.md",
+                "file": "MetaTwo/05 - Foothold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0bc38fe7cbd470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MetaTwo/10 - User.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4410dd36b746900b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MetaTwo/15 - Root.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ambassador - pwnd/10 - Root.md",
+                "file": "MetaTwo/15 - Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d5b3b23d84303a53",
+  "active": "4410dd36b746900b",
   "lastOpenFiles": [
-    "Ambassador - pwnd/Pasted image 20221025202844.png",
+    "MetaTwo/10 - User.md",
+    "MetaTwo/Pasted image 20221107154225.png",
+    "Pasted image 20221107154223.png",
+    "MetaTwo/05 - Foothold.md",
+    "MetaTwo/Pasted image 20221107153617.png",
+    "MetaTwo/00 - Enumeration.md",
     "Ambassador - pwnd/10 - Root.md",
+    "Ambassador - pwnd/Pasted image 20221025202844.png",
     "Ambassador - pwnd/05 - Foothold and User.md",
-    "Ambassador - pwnd/Pasted image 20221025185827.png",
-    "Ambassador - pwnd/00 - Enumeration.md",
-    "Ambassador - pwnd/Pasted image 20221025185614.png",
-    "Ambassador - pwnd/Pasted image 20221025185018.png",
-    "Ambassador - pwnd/Pasted image 20221025184419.png",
-    "UpDown - pwnd/00 - Enumeration.md",
-    "UpDown - pwnd/10 - User.md"
+    "Ambassador - pwnd/Pasted image 20221025185827.png"
   ]
 }
